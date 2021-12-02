@@ -1,4 +1,4 @@
-#																				WELCOME TO HANGMAN
+#							WELCOME TO HANGMAN 💀
 
 import random
 print("H A N G M A N")
